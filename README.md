@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KafuiPraise
 - 👀 I have an interest in solving problems with tech
-- 🌱 I’m currently Software Engineering student @ alx 
-- 💞️ I’m learn and collaborate with like minded people
+- 🌱 I’m currently a software engineering student @ alx 
+- 💞️ I’m open to learn and collaborate with like minded people
 
 
 <!---
