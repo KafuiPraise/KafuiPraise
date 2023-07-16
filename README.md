@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @KafuiPraise
-- 👀 I have an interest in solving problems with tech
-- 🌱 I’m currently a software engineering student @ alx 
-- 💞️ I’m open to learn and collaborate with like minded people
+![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/a15f0748-c118-4f3a-a3c9-00294cedbec1)
+
+👩‍💻 About Me :
+I am a Full Stack Software Engineer in making  from Ghana.
+
+🔭 I’m learnig to be a Software Engineer and open to contributing and learning from others.
+
+⚡ I love PYTHON.
+
+![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/d0ff0408-b4b7-4d6b-b901-450a8e443f95)
 
 
 <!---
