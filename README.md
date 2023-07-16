@@ -1,4 +1,4 @@
-![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/bc2a3d12-e280-42ac-9f60-37e5da0b1b7f)
+![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/83b74265-a647-45ed-912e-1840393cd63a)
 
 
 👩‍💻 About Me :
