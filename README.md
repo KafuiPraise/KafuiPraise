@@ -1,12 +1,14 @@
-![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/83b74265-a647-45ed-912e-1840393cd63a)
+![image](https://github.com/KafuiPraise/KafuiPraise/assets/128822944/a47da06b-e8ac-485a-b213-12b55866fda5)
+
 
 
 👩‍💻 About Me :
+
 I am a Full Stack Software Engineer in making  from Ghana.
 
 🔭 I’m learnig to be a Software Engineer and open to contributing and learning from others.
 
-⚡ I love PYTHON.
+⚡ I'm loving PYTHON.
 
 
 <!---
