@@ -4,7 +4,7 @@
 
 👩‍💻 About Me :
 
-I am a Full Stack Software Engineer in making  from Ghana.
+I am a Software Engineer in the making  from Ghana.
 
 🔭 I’m learnig to be a Software Engineer and open to contributing and learning from others.
 
